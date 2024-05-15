@@ -1,8 +1,28 @@
-# React + Vite
+# Bank of Flatiron
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Bank-of-Flatiorn
+This is a React application that displays a list of your recent bank transactions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installationhe doc
+
+You use git clone comand to be eneble download
+
+## Installation Requirements
+
+Git
+
+npm
+
+### Installation instruction
+
+Git clone https://github.com/BLAIR-MUNENE/bank-of-flatron
+
+# Live Link
+
+[Git](https://bankofflatron.netlify.app/)
+
+## Support and contact details
+
+https://github.com/BLAIR-MUNENE

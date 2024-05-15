@@ -1,0 +1,29 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.Title {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.search-container {
+  width: 100%; /* Or auto, depending on your design */
+  max-height: none; /* Remove any max-height restrictions */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
