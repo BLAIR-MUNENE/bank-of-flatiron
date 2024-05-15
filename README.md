@@ -21,7 +21,7 @@ Git clone https://github.com/BLAIR-MUNENE/bank-of-flatron
 
 # Live Link
 
-[Git](https://bankofflatron.netlify.app/)
+[Git](https://bankofflarton.netlify.app)
 
 ## Support and contact details
 
